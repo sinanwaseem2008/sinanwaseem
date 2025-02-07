@@ -1,0 +1,7 @@
+C:\Users\Aptech\Desktop\generics1\bin\Debug\generics1.exe.config
+C:\Users\Aptech\Desktop\generics1\bin\Debug\generics1.exe
+C:\Users\Aptech\Desktop\generics1\bin\Debug\generics1.pdb
+C:\Users\Aptech\Desktop\generics1\obj\Debug\generics1.csproj.AssemblyReference.cache
+C:\Users\Aptech\Desktop\generics1\obj\Debug\generics1.csproj.CoreCompileInputs.cache
+C:\Users\Aptech\Desktop\generics1\obj\Debug\generics1.exe
+C:\Users\Aptech\Desktop\generics1\obj\Debug\generics1.pdb
